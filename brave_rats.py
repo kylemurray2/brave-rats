@@ -9,7 +9,10 @@ from components.fight import resolve_fight, successful_spy_color
 from components.brain_management import get_brain_func
 from components.game_status import GameStatus
 from components.player import Player
-from components.style import blueify, redify
+from components.style import blueify, redify 
+
+
+
 
 
 def _get_played_cards(red_player, blue_player, game):

@@ -1,6 +1,5 @@
 from enum import IntEnum
 
-
 class Card(IntEnum):
     musician = 0
     princess = 1
